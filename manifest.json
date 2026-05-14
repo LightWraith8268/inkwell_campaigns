@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "sunken-vault-kelimor",
+    "title": "The Sunken Vault of Kelimor",
+    "summary": "Descend into a flooded dwarven vault beneath a mountain lake to reclaim a stolen relic — before something ancient reclaims you.",
+    "tags": ["dungeon", "exploration", "treasure", "classic", "undead"]
+  },
+  {
+    "slug": "shadows-of-thornwick",
+    "title": "Shadows of Thornwick",
+    "summary": "A fishing village is vanishing one soul at a time. Unravel the ancient bargain that built Thornwick — before the tide comes in for good.",
+    "tags": ["mystery", "intrigue", "roleplay", "social", "horror", "coastal"]
+  },
+  {
+    "slug": "ashwalkers-path",
+    "title": "The Ashwalker's Path",
+    "summary": "Guide a desperate group across the Ashfields — a ruined heartland still burning twenty years after the Sundering — before your water runs out and the ash gets in.",
+    "tags": ["survival", "exploration", "post-apocalyptic", "travel", "wilderness"]
+  }
+]
